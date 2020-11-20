@@ -107,3 +107,12 @@ h3,
 strong {
   color: #333;
 }
+
+.border{
+    content:' ';
+    display:block;
+    border:2px solid black;
+    
+
+}
+
