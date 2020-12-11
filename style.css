@@ -1,5 +1,5 @@
 html {
-  font-size: 10px;
+  font-size: 11px;
 }
 
 body {
@@ -51,9 +51,9 @@ a:visited {
   border-radius: 5px;
 }
 
-@media (max-width: 500px) {
-  #main {
-    margin: 0;
+@media (max-width: 1000px) {
+  p {
+    font-size: 30px;
   }
 }
 
